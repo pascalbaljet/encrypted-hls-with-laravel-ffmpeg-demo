@@ -2,6 +2,7 @@
 
 * [Live Stream 24 December 13:30 CET](https://youtu.be/WlbzWoAcez4)
 * [Package used in the stream](https://github.com/protonemedia/laravel-ffmpeg)
+* [Demo video](https://www.pexels.com/nl-nl/video/1570894/) by Joseph Redfield
 
 ## Code of Conduct
 
